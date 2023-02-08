@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "Recursion\RecursiveFactorial.csproj", "{6C6576F0-D665-42F0-AE21-D1A2AE051954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitionOnly", "PartitionOnly\PartitionOnly.csproj", "{9DCD2F37-5DF4-4195-81ED-D4C6F7BC943F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C6576F0-D665-42F0-AE21-D1A2AE051954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6576F0-D665-42F0-AE21-D1A2AE051954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6576F0-D665-42F0-AE21-D1A2AE051954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6576F0-D665-42F0-AE21-D1A2AE051954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCD2F37-5DF4-4195-81ED-D4C6F7BC943F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCD2F37-5DF4-4195-81ED-D4C6F7BC943F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCD2F37-5DF4-4195-81ED-D4C6F7BC943F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCD2F37-5DF4-4195-81ED-D4C6F7BC943F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F9ACB02-E0A2-4244-AEC7-20353E38E6B7}
+	EndGlobalSection
+EndGlobal
